@@ -40,7 +40,7 @@ theme:
     code: Roboto Mono
 
 extra_css:
-  - assets/stylesheets/extra.css
+  - _assets/_stylesheets/extra.css
 
 # footer links and variables
 extra:
