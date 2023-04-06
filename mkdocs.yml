@@ -14,6 +14,7 @@ repo_name: anchit-chandran/medicode-website
 # `mkdocs serve` serves the documentation at custom port
 dev_addr: "127.0.0.1:8001"
 
+
 nav:
   - Home: "index.md"
   - About: 'about.md'
