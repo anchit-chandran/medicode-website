@@ -18,6 +18,7 @@ nav:
   - Home: "index.md"
   - About: 'about.md'
   - Learn to code: 'code.md'
+  - Team: 'team.md'
   - Contact Us: 'contact.md'
 
 theme:
