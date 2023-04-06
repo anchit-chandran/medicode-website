@@ -1,0 +1,50 @@
+# main site metadata and titles
+site_name: MediCode
+site_description: Teaching clinians to code
+site_author: MediCode
+site_url: https://docs.epilepsy12.rcpch.ac.uk
+
+# copyright information which is shown in the footer
+copyright: Copyright &copy; 2023 Anchit Chandran Ltd.
+
+# these lines configure the 'GitHub repo' widget on the top right
+repo_url: https://github.com/anchit-chandran/medicode-website
+repo_name: anchit-chandran/medicode-website
+
+# `mkdocs serve` serves the documentation at custom port
+dev_addr: "127.0.0.1:8001"
+
+nav:
+  - Home: "index.md"
+  - About: 'about.md'
+  - Learn to code: 'code.md'
+  - Contact Us: 'contact.md'
+
+theme:
+  name: material  
+  features:
+    - content.action.edit # explicitly adds edit button (Material4MkDocs9.0) 
+    - content.action.view # explicitly adds view button (Material4MkDocs9.0) 
+    - navigation.expand
+    - navigation.footer # explicitly adds footer prev/next (Material4MkDocs9.0)
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    # - toc.integrate
+  palette:
+    scheme: dark
+  font:
+    text: Montserrat
+    code: Roboto Mono
+
+
+# footer links and variables
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/medic_ode
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/medic_ode/
+
