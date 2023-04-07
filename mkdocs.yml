@@ -18,15 +18,14 @@ dev_addr: "127.0.0.1:8001"
 nav:
   - Home: "index.md"
   - About: 'about.md'
-  - Learn to code: 'code.md'
+  - Learning to code: 'code.md'
   - Team: 'team.md'
   - Contact Us: 'contact.md'
 
 theme:
-  name: material  
+  name: material 
+  logo: _assets/_images/logo-no-bg.png
   features:
-    - content.action.edit # explicitly adds edit button (Material4MkDocs9.0) 
-    - content.action.view # explicitly adds view button (Material4MkDocs9.0) 
     - navigation.expand
     - navigation.footer # explicitly adds footer prev/next (Material4MkDocs9.0)
     - navigation.instant
