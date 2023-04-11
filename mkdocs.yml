@@ -1,8 +1,8 @@
 # main site metadata and titles
 site_name: MediCode
-site_description: Teaching clinians to code
+site_description: Teaching Clinicians to Code
 site_author: MediCode
-site_url: https://docs.epilepsy12.rcpch.ac.uk
+site_url: https://medicode.info/
 
 # copyright information which is shown in the footer
 copyright: Copyright &copy; 2023 Anchit Chandran Ltd.
@@ -24,7 +24,7 @@ nav:
 
 theme:
   name: material 
-  logo: _assets/_images/logo-no-bg.png
+  logo: _assets/_images/logo-gear.png
   features:
     - navigation.expand
     - navigation.footer # explicitly adds footer prev/next (Material4MkDocs9.0)
