@@ -2,10 +2,14 @@
 title: Meet the Team
 ---
 
-# Dr Anchit Chandran (Founder)
+## Dr Anchit Chandran (Founder)
 
 - abc
 
-# Kieran Vail
+## Kieran Vail
 
 - xyz
+
+## Dr Kevin Zhang
+
+- hi

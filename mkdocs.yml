@@ -21,6 +21,10 @@ nav:
   - Learning to code: 'code.md'
   - Team: 'team.md'
   - Contact Us: 'contact.md'
+  - Offering: 
+      - 'walkthrough.md'
+      - Tutorial recordings: 'recordings.md'
+
 
 theme:
   name: material 
