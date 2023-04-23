@@ -1,7 +1,7 @@
 # main site metadata and titles
-site_name: MediCode
+site_name: MEDICODE
 site_description: Teaching Clinicians to Code
-site_author: MediCode
+site_author: Dr Anchit Chandran
 site_url: https://medicode.info/
 
 # copyright information which is shown in the footer
@@ -16,15 +16,16 @@ dev_addr: "127.0.0.1:8001"
 
 
 nav:
-  - Home: "index.md"
+  - "index.md"
   - About: 'about.md'
+  - Course Details: 'details.md'
   - Learning to code: 'code.md'
   - Team: 'team.md'
   - Contact Us: 'contact.md'
 
 theme:
   name: material 
-  logo: _assets/_images/logo-gear.png
+  logo: _assets/_images/logo.svg
   features:
     - navigation.expand
     - navigation.footer # explicitly adds footer prev/next (Material4MkDocs9.0)
@@ -39,6 +40,15 @@ theme:
   font:
     text: Montserrat
     code: Roboto Mono
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_css:
   - _assets/_stylesheets/extra.css
