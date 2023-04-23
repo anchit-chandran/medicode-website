@@ -4,6 +4,10 @@
     --medicode-white: #ecdbcb;
 }
 
+.md-ellipsis {
+    font-size: 2em;
+}
+
 /* nav bg color */
 .md-header, .md-tabs {
     background-color: var(--medicode-red);
@@ -11,4 +15,26 @@
 
 .md-nav__item .md-nav__link--active {
     color: var(--medicode-blue);
+}
+
+.md-header {
+    background-color: white;
+    color: black;
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 5rem !important;
+    width: auto;
+}
+
+footer.md-footer {
+    background-color: var(--medicode-red);
+}
+
+p>a.md-button.md-button--primary{
+    background-color: var(--medicode-red);
+    border-color: var(--medicode-red);
+    color: var(--md-primary-bg-color);
+    display: table;
+    margin: 1em auto;
 }

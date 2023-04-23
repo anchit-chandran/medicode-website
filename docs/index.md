@@ -1,28 +1,46 @@
 ---
-title: Teaching Clinians to Code
+title: MediCode
 ---
 
 We are on a mission to teach clinicians to code, guiding them from zero to one, and developing their confidence to reach mastery.
 
 Our vision is to distil tech literacy into every clinician, equipping them with tools to create innovative solutions to any problem.
 
+## Empowering Clinicians with Coding Skills for Innovative Healthcare Solutions
+
 We will empower the next generation of high-impact healthcare professionals to propel positive patient outcomes and lead more meaningful and satisfying careers.
 
-Are you a clinician interested in coding?
+Are **you** a clinician interested in coding?
 
-Sign up below to find out about future tutorials, projects, and access the first tutorial for free!
+Sign up below to find out about future tutorials, projects, and information!
+
+[Sign up](#sign-up){ .md-button .md-button--primary }
+
+## By clinicians, for clinicians
+
+Our courses are designed with busy healthcare professionals in mind.
+
+All tutorials are given online and will be recorded, so don't worry if you can't make it the entire time!
+
+## Sign up
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Montserrat,Arial,sans-serif; }
+	#mc_embed_signup{
+		background:#fff; 
+		clear:left; 
+		font:14px Montserrat,Arial,sans-serif; 
+		}
+	p.brandingLogo {
+		display: none;
+	}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
     <form action="https://medicode.us17.list-manage.com/subscribe/post?u=8a4d5eedcdc9ad26125946b3c&amp;id=36e601d97e&amp;f_id=00dd54e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
-        <h2>Stay up to date with the latest from MediCode</h2>
         <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -47,7 +65,7 @@ Sign up below to find out about future tutorials, projects, and access the first
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8a4d5eedcdc9ad26125946b3c_36e601d97e" tabindex="-1" value=""></div>
         <div class="optionalParent">
             <div class="clear foot">
-                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                <input type="submit" value="Sign me up!" name="subscribe" id="mc-embedded-subscribe" class="button">
                 <p class="brandingLogo"><a href="http://eepurl.com/ieMRO9" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
             </div>
         </div>
