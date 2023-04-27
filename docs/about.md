@@ -1,35 +1,31 @@
 ---
-title: About the MediCode Course
+title: About
 ---
 
-# About the MediCode Course
+# Transform Your Medical Career with Python
 
-In medical school, we begin by learning how the human body works.
+Are you a medic who wants to take your career to the next level? Look no further! The MediCode Course is here to revolutionize your journey.
 
-We're equipped with the tools to approach any new presentation and the knowledge to Google anything we don't know. We then specialise: acquiring a deeper understanding of medicine, performing brain surgery and curing cancer.
+### Become a Clinician who Codes
 
-**This course is like medical school.**
+Our course is like no other, offering the best of both worlds: medical and coding expertise. Just like medical school, you will learn the fundamentals of Python and how to approach any problem in a medical context. In addition, with our hand-craft tutorials, you will gain the confidence to independently explore new data science, web development, and machine learning fields.
 
-We teach the fundamentals of Python and how to approach a particular problem.
+### Unlock Endless Opportunities
 
-## Why choose this course?
+As a medical coder, you can leverage your domain knowledge to identify problems and derive innovative solutions. Imagine being able to tackle complex health challenges with your unique coding skills, opening up new exciting opportunities within academia, health management, and data science.
 
-As a medic, learning to code is daunting.
+### Say Goodbye to the Struggle
 
-Tutorials are filled with needless complexity combined with jargon aimed toward programming professionals.
+We understand that coding can seem daunting, especially for medics without experience. As self-taught medic coders, we have been there. We created this course with you in mind. We teach the fundamentals of Python in a medical context, making it easy for you to learn and understand. 
 
-We make it easy.
+**After the first hour of the course, you will have already created your first program!**
 
- As self-taught medic coders, we empathise with the initial struggle.
+### Join the Revolution Today
 
-That's why we created this course to teach the fundamentals of Python. Every lesson is placed within the medical context, answering, "where would I use this?"
+Are you ready to take your medical career to the next level? Then, join the MediCode Course today and start your journey towards becoming a Clinician who Codes!
 
-After the first hour, you will have created your first program.
+With our course, you will be confident to start your Python programming journey, unlock endless opportunities and transform your career. 
 
-After the course, you will have the confidence to independently delve further into any field you choose, such as data science, web development and machine learning.
+Sign up now and join the coding medic revolution!
 
-Coding is a lucrative addition to any medic's skillset, opening up many exciting opportunities within academia, health management and data science.
-
-You can use your medical domain knowledge to identify problems and code to derive innovative solutions.
-
-Sign up on the main page if you're interested!
+[Sign up](#sign-up){ .md-button .md-button--primary }

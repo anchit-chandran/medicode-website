@@ -1,5 +1,5 @@
 ---
-title: MediCode
+title: Home
 ---
 
 We are on a mission to teach clinicians to code, guiding them from zero to one, and developing their confidence to reach mastery.
