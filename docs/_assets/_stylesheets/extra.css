@@ -2,6 +2,7 @@
     --medicode-red: #980026;
     --medicode-blue: #3e96ee;
     --medicode-white: #ecdbcb;
+    --md-footer-bg-color: var(--medicode-blue);
 }
 
 .md-ellipsis {
@@ -9,6 +10,10 @@
 }
 
 /* nav bg color */
+.md-banner__inner.md-grid.md-typeset{
+    max-height: 1rem;
+}
+
 .md-header, .md-tabs {
     background-color: var(--medicode-red);
 }

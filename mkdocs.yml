@@ -18,7 +18,7 @@ dev_addr: "127.0.0.1:8001"
 nav:
   - "index.md"
   - About: 'about.md'
-  - Course Details: 'details.md'
+  - Cohort 3 Course Details: 'details.md'
   - Learning to code: 
     - Learning to code: 'code.md'
     - What does learning to code actually mean?: 'learning-to-code.md'
@@ -27,6 +27,7 @@ nav:
 
 theme:
   name: material 
+  custom_dir: overrides
   logo: _assets/_images/logo.svg
   features:
     - navigation.expand
@@ -37,11 +38,15 @@ theme:
     - navigation.top
     - navigation.tracking
     # - toc.integrate
+    - toc.follow
   palette:
     scheme: dark
   font:
     text: Montserrat
     code: Roboto Mono
+
+watch:
+  - overrides
 
 markdown_extensions:
   - admonition
