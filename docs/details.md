@@ -21,3 +21,7 @@ We have curated our clinical Python tutorials using a resource called **Google C
 ## Price
 
 Cohort 3 Ticket Price: **£55**.
+
+## Course Outline
+
+**add course outline image here**
