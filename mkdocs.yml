@@ -19,7 +19,9 @@ nav:
   - "index.md"
   - About: 'about.md'
   - Course Details: 'details.md'
-  - Learning to code: 'code.md'
+  - Learning to code: 
+    - Learning to code: 'code.md'
+    - What does learning to code actually mean?: 'learning-to-code.md'
   - Team: 'team.md'
   - Contact Us: 'contact.md'
 
@@ -46,6 +48,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg

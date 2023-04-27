@@ -22,6 +22,25 @@ Our courses are designed with busy healthcare professionals in mind.
 
 All tutorials are given online and will be recorded, so don't worry if you can't make it the entire time!
 
+## 🚨 Free Access to Tutorial 1
+
+<figure markdown>
+  ![anchit profile](./_assets/_images/tutorial-1.gif){ width=""}
+  <figcaption>Tutorial 1's Google Colaboratory environment</figcaption>
+</figure>
+
+To get free access to our first tutorial, in which you can work through and write Python code all within your browser, sign up to our mailing list below, and you'll be sent a link to the tutorial! 
+
+The Learning Objectives are:
+
+ - Understand the syntax of Python
+ - Understand variables in Python
+ - Utilise comments to begin establishing good coding practices
+ - Apply understanding of variables to update variable values
+ - Understand and differentiate between data types
+ - Utilise f-strings
+ - Apply knowledge of syntax and variables to create basic programs
+
 ## Sign up
 
 <!-- Begin Mailchimp Signup Form -->
