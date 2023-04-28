@@ -1,26 +1,29 @@
 ---
-title: Home
+title: 👩‍💻 Home
 ---
 
-We are on a mission to teach clinicians to code, guiding them from zero to one, and developing their confidence to reach mastery.
+Our course is like no other, offering the best of both worlds: medical and coding expertise. Just like medical school, you will learn the fundamentals of Python and how to approach any problem in a medical context. In addition, with our hand-craft tutorials, you will gain the confidence to independently explore new data science, web development, and machine learning fields.
 
-Our vision is to distil tech literacy into every clinician, equipping them with tools to create innovative solutions to any problem.
+## 🗝️ Unlock Endless Opportunities
 
-## Empowering Clinicians with Coding Skills for Innovative Healthcare Solutions
+As a medical coder, you can leverage your domain knowledge to identify problems and derive innovative solutions. Imagine being able to tackle complex health challenges with your unique coding skills, opening up new exciting opportunities within academia, health management, and data science.
 
-We will empower the next generation of high-impact healthcare professionals to propel positive patient outcomes and lead more meaningful and satisfying careers.
+## 😨 Say Goodbye to the Struggle
 
-Are **you** a clinician interested in coding?
+We understand that coding can seem daunting, especially for medics without experience. As self-taught medic coders, we have been there. We created this course with you in mind. We teach the fundamentals of Python in a medical context, making it easy for you to learn and understand. 
 
-Sign up below to find out about future tutorials, projects, and information!
+**After the first hour of the course, you will have already created your first program!**
+
+## 🌍 Join the Revolution Today
+
+Are you ready to take your medical career to the next level? Then, join the MediCode Course today and start your journey towards becoming a Clinician who Codes!
+
+With our course, you will be confident to start your Python programming journey, unlock endless opportunities and transform your career. 
+
+Sign up now and join the coding medic revolution!
 
 [Sign up](#sign-up){ .md-button .md-button--primary }
 
-## By clinicians, for clinicians
-
-Our courses are designed with busy healthcare professionals in mind.
-
-All tutorials are given online and will be recorded, so don't worry if you can't make it the entire time!
 
 ## 🚨 Free Access to Tutorial 1
 
@@ -29,19 +32,17 @@ All tutorials are given online and will be recorded, so don't worry if you can't
   <figcaption>Tutorial 1's Google Colaboratory environment</figcaption>
 </figure>
 
-To get free access to our first tutorial, in which you can work through and write Python code all within your browser, sign up to our mailing list below, and you'll be sent a link to the tutorial! 
+Sign up for our mailing list below to receive a link for our first Python tutorial, where you can write code directly in your browser for free!
 
-The Learning Objectives are:
+**By completing the tutorial, you will**:
 
- - Understand the syntax of Python
- - Understand variables in Python
- - Utilise comments to begin establishing good coding practices
- - Apply understanding of variables to update variable values
- - Understand and differentiate between data types
- - Utilise f-strings
- - Apply knowledge of syntax and variables to create basic programs
+- Learn Python syntax
+- Understand and use Python variables
+- Recognize and differentiate Python data types
+- Use f-strings for string formatting
+- Build a basic program
 
-## Sign up
+## 📧 Sign up
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">

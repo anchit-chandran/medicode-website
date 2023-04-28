@@ -32,7 +32,7 @@
 }
 
 .md-nav__item .md-nav__link--active {
-    color: var(--medicode-blue);
+    color: var(--medicode-red);
 }
 
 .md-header {
