@@ -7,7 +7,7 @@
     --md-typeset-a-color: var(--medicode-red);
 }
 
-.md-ellipsis {
+.md-header__ellipsis .md-ellipsis {
     font-size: 2em;
 }
 
