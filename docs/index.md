@@ -1,5 +1,6 @@
 ---
 title: Home
+template: main.html
 ---
 
 # 👩‍💻 Teaching Clinicians to Code
@@ -31,6 +32,35 @@ Are you ready to take your medical career to the next level? Then, join the Medi
 With our course, you will be confident to start your Python programming journey, unlock endless opportunities and transform your career.
 
 Sign up for our mailing list below and join the coding medic revolution!
+
+## Testimonials
+
+<div class="card-group">
+  <div class="card">
+    <img src="https://media.istockphoto.com/id/1400280368/photo/happy-businessman-working-on-his-laptop-at-home-handsome-businessman-reading-an-email-on-his.jpg?s=612x612&w=0&k=20&c=09GhmTnB6Wri9t3F13NXvYw-nQhV6K74CbxBgFWuAQw=" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title"><a href="">NAME<em>MBBS</em></a></h5>
+      <p class="card-text"><em>"This course taught me xyz! I particularly liked abc."</em></p>
+      <p class="card-text"><small class="text-body-secondary">Cohort 2</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="https://media.istockphoto.com/id/1400280368/photo/happy-businessman-working-on-his-laptop-at-home-handsome-businessman-reading-an-email-on-his.jpg?s=612x612&w=0&k=20&c=09GhmTnB6Wri9t3F13NXvYw-nQhV6K74CbxBgFWuAQw=" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title"><a href="">NAME<em>MBBS BSc (Hons)</em></a></h5>
+      <p class="card-text"><em>"This course taught me xyz! I particularly liked abc."</em></p>
+      <p class="card-text"><small class="text-body-secondary">Cohort 2</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="https://media.istockphoto.com/id/1400280368/photo/happy-businessman-working-on-his-laptop-at-home-handsome-businessman-reading-an-email-on-his.jpg?s=612x612&w=0&k=20&c=09GhmTnB6Wri9t3F13NXvYw-nQhV6K74CbxBgFWuAQw=" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title"><a href="">NAME <em>MBBS</em></a></h5>
+      <p class="card-text"><em>"This course taught me xyz! I particularly liked abc."</em></p>
+      <p class="card-text"><small class="text-body-secondary">Cohort 2</small></p>
+    </div>
+  </div>
+</div>
 
 ## 🚨 Free Access to Tutorial 1
 

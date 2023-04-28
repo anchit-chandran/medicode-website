@@ -23,6 +23,7 @@ nav:
     - Learning to code: 'code.md'
     - What does learning to code actually mean?: 'learning-to-code.md'
   - Team: 'team.md'
+  - FAQs: 'faq.md'
   - Contact Us: 'contact.md'
 
 theme:
