@@ -1,6 +1,8 @@
 ---
-title: 👩‍💻 Home
+title: Home
 ---
+
+# 👩‍💻 Teaching Clinicians to Code
 
 Our course is like no other, offering the best of both worlds: medical and coding expertise. Just like medical school, you will learn the fundamentals of Python and how to approach any problem in a medical context. In addition, with our hand-craft tutorials, you will gain the confidence to independently explore new data science, web development, and machine learning fields.
 
