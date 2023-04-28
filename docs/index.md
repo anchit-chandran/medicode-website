@@ -1,8 +1,18 @@
 ---
-title: 👩‍💻 Home
+title: Home
 ---
 
-Our course is like no other, offering the best of both worlds: medical and coding expertise. Just like medical school, you will learn the fundamentals of Python and how to approach any problem in a medical context. In addition, with our hand-craft tutorials, you will gain the confidence to independently explore new data science, web development, and machine learning fields.
+# 👩‍💻 Teaching Clinicians to Code
+
+In medical school, we learn fundamental concepts to deal with the most critical issues and are equipped with the ability to Google what we don't know.
+
+This course is like medical school.
+
+We teach budding Clinicians who Code the fundamentals of the Python programming language, alongside how to approach further problems.
+
+Through our hand-craft tutorials, you will gain the confidence to independently explore new data science, web development, and machine learning fields.
+
+[Sign up](#sign-up){ .md-button .md-button--primary }
 
 ## 🗝️ Unlock Endless Opportunities
 
@@ -10,7 +20,7 @@ As a medical coder, you can leverage your domain knowledge to identify problems 
 
 ## 😨 Say Goodbye to the Struggle
 
-We understand that coding can seem daunting, especially for medics without experience. As self-taught medic coders, we have been there. We created this course with you in mind. We teach the fundamentals of Python in a medical context, making it easy for you to learn and understand. 
+We understand that coding can seem daunting, especially for medics without experience. As self-taught medic coders, we have been there. We created this course with you in mind. We teach the fundamentals of Python in a medical context, making it easy for you to learn and understand.
 
 **After the first hour of the course, you will have already created your first program!**
 
@@ -18,12 +28,9 @@ We understand that coding can seem daunting, especially for medics without exper
 
 Are you ready to take your medical career to the next level? Then, join the MediCode Course today and start your journey towards becoming a Clinician who Codes!
 
-With our course, you will be confident to start your Python programming journey, unlock endless opportunities and transform your career. 
+With our course, you will be confident to start your Python programming journey, unlock endless opportunities and transform your career.
 
-Sign up now and join the coding medic revolution!
-
-[Sign up](#sign-up){ .md-button .md-button--primary }
-
+Sign up for our mailing list below and join the coding medic revolution!
 
 ## 🚨 Free Access to Tutorial 1
 
