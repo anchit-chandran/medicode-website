@@ -2,14 +2,27 @@
     --medicode-red: #980026;
     --medicode-blue: #3e96ee;
     --medicode-white: #ecdbcb;
-    --md-footer-bg-color: var(--medicode-blue);
+    --md-accent-fg-color: var(--medicode-red);
+    --md-primary-fg-color--dark: var(--medicode-red);
+    --md-typeset-a-color: var(--medicode-red);
 }
 
 .md-ellipsis {
     font-size: 2em;
 }
 
-/* nav bg color */
+/* nav   */
+
+/* mobile nav sidebar */
+@media screen and (max-width: 76.1875em) {
+    .md-nav--primary .md-nav__title[for=__drawer] {
+        background-color: white;
+        color: black;
+    }
+}
+
+
+
 .md-banner__inner.md-grid.md-typeset{
     max-height: 1rem;
 }
