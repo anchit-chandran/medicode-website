@@ -17,11 +17,10 @@ dev_addr: "127.0.0.1:8001"
 
 nav:
   - "index.md"
-  - About: 'about.md'
-  - Cohort 3 Course Details: 'details.md'
-  - Learning to code: 
-    - Learning to code: 'code.md'
+  - About: 
+    - 'about.md'
     - What does learning to code actually mean?: 'learning-to-code.md'
+  - Course Details: 'details.md'
   - Team: 'team.md'
   - FAQs: 'faq.md'
   - Contact Us: 'contact.md'

@@ -9,9 +9,9 @@ In medical school, we learn fundamental concepts to deal with the most critical 
 
 This course is like medical school.
 
-We teach budding Clinicians who Code the fundamentals of the Python programming language, alongside how to approach further problems.
+We teach budding Clinicians who Code the fundamentals of the Python programming language.
 
-Through our hand-craft tutorials, you will gain the confidence to independently explore new data science, web development, and machine learning fields.
+Through our hand-crafted tutorials, you will gain the confidence to independently explore new fields like data science, web development, and machine learning!
 
 [Sign up](#sign-up){ .md-button .md-button--primary }
 
@@ -33,29 +33,21 @@ With our course, you will be confident to start your Python programming journey,
 
 Sign up for our mailing list below and join the coding medic revolution!
 
-## Testimonials
+## 🗣️ Testimonials
 
 <div class="card-group">
   <div class="card">
     <img src="https://media.istockphoto.com/id/1400280368/photo/happy-businessman-working-on-his-laptop-at-home-handsome-businessman-reading-an-email-on-his.jpg?s=612x612&w=0&k=20&c=09GhmTnB6Wri9t3F13NXvYw-nQhV6K74CbxBgFWuAQw=" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title"><a href="">NAME<em>MBBS</em></a></h5>
-      <p class="card-text"><em>"This course taught me xyz! I particularly liked abc."</em></p>
-      <p class="card-text"><small class="text-body-secondary">Cohort 2</small></p>
+      <h5 class="card-title"><a href="">Dr Christopher Boulos <em>MBBS</em></a></h5>
+      <p class="card-text"><em>"The course was well-planned with relevant examples for clinical practice. The instructors provided a personal approach, allowing for questions throughout and ensuring we were all up to speed. It covered all the fundamentals of Python, allowing me to build on what I'd learned with the option for further guidance in the future."</em></p>
+      <p class="card-text"><small class="text-body-secondary">Cohort 2 - FY2 Doctor</small></p>
     </div>
   </div>
   <div class="card">
     <img src="https://media.istockphoto.com/id/1400280368/photo/happy-businessman-working-on-his-laptop-at-home-handsome-businessman-reading-an-email-on-his.jpg?s=612x612&w=0&k=20&c=09GhmTnB6Wri9t3F13NXvYw-nQhV6K74CbxBgFWuAQw=" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title"><a href="">NAME<em>MBBS BSc (Hons)</em></a></h5>
-      <p class="card-text"><em>"This course taught me xyz! I particularly liked abc."</em></p>
-      <p class="card-text"><small class="text-body-secondary">Cohort 2</small></p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="https://media.istockphoto.com/id/1400280368/photo/happy-businessman-working-on-his-laptop-at-home-handsome-businessman-reading-an-email-on-his.jpg?s=612x612&w=0&k=20&c=09GhmTnB6Wri9t3F13NXvYw-nQhV6K74CbxBgFWuAQw=" class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title"><a href="">NAME <em>MBBS</em></a></h5>
       <p class="card-text"><em>"This course taught me xyz! I particularly liked abc."</em></p>
       <p class="card-text"><small class="text-body-secondary">Cohort 2</small></p>
     </div>
