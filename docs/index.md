@@ -11,7 +11,7 @@ This course is like medical school.
 
 We teach budding Clinicians who Code the fundamentals of the Python programming language.
 
-Through our hand-crafted tutorials, you will gain the confidence to independently explore new fields like data science, web development, and machine learning!
+Through our tailor-made tutorials, you will gain the confidence to independently explore new fields like data science, web development, and machine learning!
 
 [Sign up](#sign-up){ .md-button .md-button--primary }
 
@@ -21,7 +21,7 @@ As a medical coder, you can leverage your domain knowledge to identify problems 
 
 ## 😨 Say Goodbye to the Struggle
 
-We understand that coding can seem daunting, especially for medics without experience. As self-taught medic coders, we have been there. We created this course with you in mind. We teach the fundamentals of Python in a medical context, making it easy for you to learn and understand.
+We understand that coding can seem daunting, especially for medics without experience. As self-taught medic coders, we have been there, and have created this course with you in mind. We teach the fundamentals of Python in a medical context, making it easy for you to understand the clinical significance of what's being taught.
 
 **After the first hour of the course, you will have already created your first program!**
 
@@ -55,6 +55,7 @@ Sign up for our mailing list below and join the coding medic revolution!
 </div>
 
 ## 🚨 Free Access to Tutorial 1
+### Start coding in seconds!
 
 <figure markdown>
   ![anchit profile](./_assets/_images/tutorial-1.gif){ width=""}
