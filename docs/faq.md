@@ -11,7 +11,7 @@ Each tickets grants you exclusive accesss to
 - Interactive small group tutorial sessions where we walk you through coding fundamentals
 - All of our previous coding tutorial recordings
 - Personal coding coaching from our highly experienced mentors
-- Unlimited access to all of our coding workbooks and Google Colab tutorials
+- Unlimited access to all of our coding workbooks and Google Colab tutorials with worked examples
 
 ## Do I need any previous experience with coding
 
