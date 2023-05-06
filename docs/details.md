@@ -10,7 +10,7 @@ No coding experience is needed for this course, as it is specifically designed t
 
 ## What is Included
 
-- 8 x 1-1.5hr live and interactive tutorials, covering the fundamentals of *Python* - a powerful programming language  
+- 8 x 1-1.5hr live and interactive tutorials, covering the fundamentals of *Python* - an industry-standard programming language  
 - Developing real world projects such as building a neural network to predict clinic appointment attendance
 - 8 x accompanying Google Colab workbooks
 - 7 x individual exercise workbooks, to solidfy knowledge and concepts in your own time

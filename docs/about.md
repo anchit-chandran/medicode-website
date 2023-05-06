@@ -10,24 +10,17 @@ Our vision is to distil tech literacy into every clinician, equipping them with 
 
 ## Empowering Clinicians with Coding Skills for Innovative Healthcare Solutions
 
-We will empower the next generation of high-impact healthcare professionals to propel positive patient outcomes and lead more meaningful and satisfying careers. More and more of the world is gearing towards novel digital technologies to help boost their productivity, and we believe that healthcare is no exception. Join the cutting edge of development and become one of the ones leading the forefront for innovation in the NHS.
+Join the next generation of high-impact healthcare professionals that are propelling positive patient outcomes and leading more meaningful and satisfying careers. More and more of the world is gearing towards novel digital technologies to help boost productivity, and we believe that healthcare is no exception. Join the next generation of healthcare workers revolutionising the way we think about medical technology.
 
 Are **you** a clinician interested in coding?
 
-Sign up below to find out about future tutorials, projects, and information!
+[Sign up here](./index.md#sign-up) to find out about future tutorials, projects, and information!
+
 
 ## By clinicians, for clinicians
 
 Our courses are designed with busy healthcare professionals in mind.
 
 All tutorials are given online and will be recorded, so don't worry if you can't make it the entire time!
-
-## How can medics learn Python?
-
-By attending MediCode school!
-
-MediCode has created a comprehensive series of Python tutorials aimed towards medics who are complete beginners at coding.
-
-Please register your interest via our [email signup](./index.md#sign-up) and stay updated!
 
 [Sign up](#sign-up){ .md-button .md-button--primary }
