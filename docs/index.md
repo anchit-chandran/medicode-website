@@ -35,16 +35,16 @@ Sign up for our mailing list below and join the coding medic revolution!
 
 ## 🗣️ Testimonials
 
-<div class="card-group">
+
   <div class="card">
-    <img src="./_assets/_images/boulos_profile.png" class="card-img-top" alt="...">
+    <img src="./_assets/_images/boulos.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title"><a href="">Dr Christopher Boulos <em>MBBS</em></a></h5>
       <p class="card-text"><em>"The course was well-planned with relevant examples for clinical practice. The instructors provided a personal approach, allowing for questions throughout and ensuring we were all up to speed. It covered all the fundamentals of Python, allowing me to build on what I'd learned with the option for further guidance in the future."</em></p>
       <p class="card-text"><small class="text-body-secondary">Cohort 2 - FY2 Doctor</small></p>
     </div>
   </div>
-</div>
+
 
 ## 🚨 Free Access to Tutorial 1
 ### Start coding in seconds!

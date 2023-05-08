@@ -59,3 +59,9 @@ p>a.md-button.md-button--primary{
     display: table;
     margin: 1em auto;
 }
+
+.card {
+    max-width: 15rem;
+    margin-left: auto;
+    margin-right: auto;
+}
