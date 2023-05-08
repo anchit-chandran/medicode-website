@@ -4,7 +4,7 @@ title: Get in Touch
 
 !!! info "General enquiries"
 
-    For general enquiries, please    email <medicode@anchit.me>.
+    For general enquiries, please email <medicode@anchit.me>.
 
 Otherwise, follow us on our social medias:
 

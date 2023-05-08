@@ -21,7 +21,7 @@ As a medical coder, you can leverage your domain knowledge to identify problems 
 
 ## 😨 Say Goodbye to the Struggle
 
-We understand that coding can seem daunting, especially for medics without experience. As self-taught medic coders, we have been there, and have created this course with you in mind. We teach the fundamentals of Python in a medical context, making it easy for you to understand the clinical significance of what's being taught.
+We understand that coding can seem daunting, especially for medics without experience. As self-taught medic coders, we have been there and have created this course with you in mind. We teach the fundamentals of Python in a medical context, making it easy for you to understand the clinical significance of what's being taught.
 
 **After the first hour of the course, you will have already created your first program!**
 
@@ -42,14 +42,6 @@ Sign up for our mailing list below and join the coding medic revolution!
       <h5 class="card-title"><a href="">Dr Christopher Boulos <em>MBBS</em></a></h5>
       <p class="card-text"><em>"The course was well-planned with relevant examples for clinical practice. The instructors provided a personal approach, allowing for questions throughout and ensuring we were all up to speed. It covered all the fundamentals of Python, allowing me to build on what I'd learned with the option for further guidance in the future."</em></p>
       <p class="card-text"><small class="text-body-secondary">Cohort 2 - FY2 Doctor</small></p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="https://media.istockphoto.com/id/1400280368/photo/happy-businessman-working-on-his-laptop-at-home-handsome-businessman-reading-an-email-on-his.jpg?s=612x612&w=0&k=20&c=09GhmTnB6Wri9t3F13NXvYw-nQhV6K74CbxBgFWuAQw=" class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title"><a href="">NAME<em>MBBS BSc (Hons)</em></a></h5>
-      <p class="card-text"><em>"This course taught me xyz! I particularly liked abc."</em></p>
-      <p class="card-text"><small class="text-body-secondary">Cohort 2</small></p>
     </div>
   </div>
 </div>
