@@ -38,6 +38,10 @@
     color: var(--medicode-red);
 }
 
+.md-source {
+    display: none;
+}
+
 .md-header {
     background-color: white;
     color: black;
