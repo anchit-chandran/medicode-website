@@ -1,27 +1,21 @@
 ---
 title: Course Details
 ---
+We are excited to announce the dates for our next coding tutorial cohort, from the 3rd of July to the 15th of July!
 
-For Cohort 3, we will host eight 1-1.5hr sessions, Monday-Thursday evenings, across **3rd July - 14th July**.
+This will involve **seven** tailored online tutorials where we will go over everything you need to get started in your journey into coding, from your printing "Hello!" to your first neural network.
 
-These will all be recorded so don't worry if you can't make any!
+No coding experience is needed for this course, as it is designed to teach you everything you need to know from the ground up. We will give you the tools to create and develop your coding projects and applications.
 
-They will all be online.
+## What is Included
 
-We have curated our clinical Python tutorials using a resource called **Google Colaboratory**. In short, this means you can write and run Python code completely from your browser, from anywhere, for free!
-
-## Contents
-
-- 8 x 1-1.5hr Tutorials, covering the fundamentals of Python for clinicians, including real world projects such as building a neural network to predict clinic appointment attendance
+- 8 x 1-1.5hr live and interactive tutorials, covering the fundamentals of *Python* - an industry-standard programming language, with accompanying coding workbooks  
 - 8 x accompanying Google Colab workbooks
-- 7 x individual exercise workbooks, to solidfy knowledge and concepts
+- 7 x individual exercise workbooks to solidify knowledge and concepts in your own time
+- Real-world projects such as building a neural network to predict clinic appointment attendance
 - Help, advice, and personal coding coaching from MediCode tutors
 - Access to the MediCode Community
 
 ## Price
 
 Cohort 3 Ticket Price: **£55**.
-
-## Course Outline
-
-**add course outline image here**

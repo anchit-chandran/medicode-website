@@ -31,6 +31,7 @@ theme:
   logo: _assets/_images/logo.svg
   features:
     - navigation.expand
+    - header.autohide
     - navigation.footer # explicitly adds footer prev/next (Material4MkDocs9.0)
     - navigation.instant
     - navigation.tabs
@@ -39,6 +40,7 @@ theme:
     - navigation.tracking
     # - toc.integrate
     - toc.follow
+
   palette:
     scheme: dark
   font:
