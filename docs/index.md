@@ -11,7 +11,7 @@ This course is like medical school.
 
 We teach budding Clinicians who Code the fundamentals of the Python programming language.
 
-Through our hand-crafted tutorials, you will gain the confidence to independently explore new fields like data science, web development, and machine learning!
+Through our tailor-made tutorials, you will gain the confidence to independently explore new fields like data science, web development, and machine learning!
 
 [Sign up](#sign-up){ .md-button .md-button--primary }
 
@@ -21,7 +21,7 @@ As a medical coder, you can leverage your domain knowledge to identify problems 
 
 ## 😨 Say Goodbye to the Struggle
 
-We understand that coding can seem daunting, especially for medics without experience. As self-taught medic coders, we have been there. We created this course with you in mind. We teach the fundamentals of Python in a medical context, making it easy for you to learn and understand.
+We understand that coding can seem daunting, especially for medics without experience. As self-taught medic coders, we have been there and have created this course with you in mind. We teach the fundamentals of Python in a medical context, making it easy for you to understand the clinical significance of what's being taught.
 
 **After the first hour of the course, you will have already created your first program!**
 
@@ -44,17 +44,10 @@ Sign up for our mailing list below and join the coding medic revolution!
       <p class="card-text"><small class="text-body-secondary">Cohort 2 - FY2 Doctor</small></p>
     </div>
   </div>
-  <div class="card">
-    <img src="https://media.istockphoto.com/id/1400280368/photo/happy-businessman-working-on-his-laptop-at-home-handsome-businessman-reading-an-email-on-his.jpg?s=612x612&w=0&k=20&c=09GhmTnB6Wri9t3F13NXvYw-nQhV6K74CbxBgFWuAQw=" class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title"><a href="">NAME<em>MBBS BSc (Hons)</em></a></h5>
-      <p class="card-text"><em>"This course taught me xyz! I particularly liked abc."</em></p>
-      <p class="card-text"><small class="text-body-secondary">Cohort 2</small></p>
-    </div>
-  </div>
 </div>
 
 ## 🚨 Free Access to Tutorial 1
+### Start coding in seconds!
 
 <figure markdown>
   ![anchit profile](./_assets/_images/tutorial-1.gif){ width=""}

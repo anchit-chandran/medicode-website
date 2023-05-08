@@ -22,6 +22,9 @@
 }
 
 
+.md-banner {
+    display: flex;
+}
 
 .md-banner__inner.md-grid.md-typeset{
     max-height: 1rem;
