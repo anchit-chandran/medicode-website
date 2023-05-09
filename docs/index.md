@@ -17,11 +17,15 @@ Through our tailor-made tutorials, you will gain the confidence to independently
 
 ## 🗝️ Unlock Endless Opportunities
 
-As a medical coder, you can leverage your domain knowledge to identify problems and derive innovative solutions. Imagine being able to tackle complex health challenges with your unique coding skills, opening up new exciting opportunities within academia, health management, and data science.
+As a medical programmer, you can leverage your domain knowledge to identify problems and derive innovative solutions. Use this skill to tackle complex health challenges, opening up new exciting opportunities within academia, health management, and data science.
 
 ## 😨 Say Goodbye to the Struggle
 
-We understand that coding can seem daunting, especially for medics without experience. As self-taught medic coders, we have been there and have created this course with you in mind. We teach the fundamentals of Python in a medical context, making it easy for you to understand the clinical significance of what's being taught.
+As self-taught medic coders we understand that coding can seem daunting, especially for medics without previous experience.
+
+This course has been crafted with clinicians at the heart of it.
+
+We teach the fundamentals of Python in a medical context, making it easy for you to understand the clinical significance of what's being taught.
 
 **After the first hour of the course, you will have already created your first program!**
 
@@ -31,7 +35,7 @@ Are you ready to take your medical career to the next level? Then, join the Medi
 
 With our course, you will be confident to start your Python programming journey, unlock endless opportunities and transform your career.
 
-Sign up for our mailing list below and join the coding medic revolution!
+Sign up for our mailing list below and join the revolution!
 
 ## 🗣️ Testimonials
 
@@ -47,14 +51,13 @@ Sign up for our mailing list below and join the coding medic revolution!
 
 
 ## 🚨 Free Access to Tutorial 1
-### Start coding in seconds!
 
 <figure markdown>
-  ![anchit profile](./_assets/_images/tutorial-1.gif){ width=""}
+  ![Google Colab screenshot](./_assets/_images/tutorial-1.gif){ width=""}
   <figcaption>Tutorial 1's Google Colaboratory environment</figcaption>
 </figure>
 
-Sign up for our mailing list below to receive a link for our first Python tutorial, where you can write code directly in your browser for free!
+Sign up for our mailing list below to receive a link for our first Python tutorial, where start learning to code in seconds, directly in your browser, for free!
 
 **By completing the tutorial, you will**:
 

@@ -2,15 +2,15 @@
 title: About
 ---
 
-Medicode started with one mission: To help clinicians navigate the rapidly evolving health-tech space efficiently and confidently.
+MediCode was established with a singular mission: empowering clinicians to navigate the dynamic landscape of health technology through programming skills.
 
-As doctors, we know exactly how daunting it is to enter the coding world from a healthcare background. So we've created this course to make it as simple as possible so that you don't have to encounter the same problems we did when starting out.
+Recognizing the challenges doctors face when venturing into coding from a healthcare background, we crafted this course to ensure a seamless learning experience. We simplify the process, providing you with the knowledge and skills necessary to embark on this transformative journey without the frustrations we once endured.
 
 Our vision is to distil tech literacy into every clinician, equipping them with tools to create innovative solutions to modern-day problems and revolutionise healthcare.
 
 ## Empowering Clinicians with Coding Skills for Innovative Healthcare Solutions
 
-Join the next generation of high-impact healthcare professionals propelling positive patient outcomes and leading more meaningful and satisfying careers. More and more of the world is gearing towards novel digital technologies to help boost productivity, and healthcare is no exception. Join the next generation of healthcare workers revolutionising how we think about medical technology.
+Embrace the opportunity to become a part of the upcoming cohort of healthcare professionals poised to profoundly impact patient well-being while simultaneously forging more purposeful and gratifying careers.
 
 Are **you** a clinician interested in coding?
 
