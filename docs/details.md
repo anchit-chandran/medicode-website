@@ -1,7 +1,7 @@
 ---
 title: Course Details
 ---
-We are excited to announce the dates for our next coding tutorial cohort, from the 3rd of July to the 15th of July!
+We are excited to announce the dates for our next coding tutorial cohort, from the 3rd of July to the 14th of July!
 
 This will involve **seven** tailored online tutorials where we will go over everything you need to get started in your journey into coding, from printing "Hello!" to your first neural network.
 
