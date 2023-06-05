@@ -13,6 +13,8 @@ We teach budding Clinicians who Code the fundamentals of the Python programming 
 
 Through our tailor-made tutorials, you will gain the confidence to independently explore new fields like data science, web development, and machine learning!
 
+[Get tickets](https://www.eventbrite.co.uk/e/coding-for-clinicians-cohort-3-tickets-651014631287){ .md-button .md-button--primary }
+
 [Sign up](#sign-up){ .md-button .md-button--primary }
 
 ## 🗝️ Unlock Endless Opportunities
