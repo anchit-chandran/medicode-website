@@ -1,0 +1,70 @@
+:root {
+    --medicode-red: #980026;
+    --medicode-blue: #3e96ee;
+    --medicode-white: #ecdbcb;
+    --md-accent-fg-color: var(--medicode-red);
+    --md-primary-fg-color--dark: var(--medicode-red);
+    --md-typeset-a-color: var(--medicode-red);
+}
+
+.md-header__ellipsis .md-ellipsis {
+    font-size: 2em;
+}
+
+/* nav   */
+
+/* mobile nav sidebar */
+@media screen and (max-width: 76.1875em) {
+    .md-nav--primary .md-nav__title[for=__drawer] {
+        background-color: white;
+        color: black;
+    }
+}
+
+.md-banner {
+    display: flex;
+}
+
+.md-banner__inner.md-grid.md-typeset{
+    max-height: 1rem;
+}
+
+.md-header, .md-tabs {
+    background-color: var(--medicode-red);
+}
+
+.md-nav__item .md-nav__link--active {
+    color: var(--medicode-red);
+}
+
+.md-source {
+    display: none;
+}
+
+.md-header {
+    background-color: white;
+    color: black;
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 5rem !important;
+    width: auto;
+}
+
+footer.md-footer {
+    background-color: var(--medicode-red);
+}
+
+p>a.md-button.md-button--primary{
+    background-color: var(--medicode-red);
+    border-color: var(--medicode-red);
+    color: var(--md-primary-bg-color);
+    display: table;
+    margin: 1em auto;
+}
+
+.card {
+    max-width: 15rem;
+    margin-left: auto;
+    margin-right: auto;
+}
