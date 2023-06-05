@@ -19,3 +19,5 @@ No coding experience is needed for this course!
 ## Price
 
 Cohort 3 Ticket Price: **£55**.
+
+Ticket link: https://www.eventbrite.co.uk/e/coding-for-clinicians-cohort-3-tickets-651014631287.
